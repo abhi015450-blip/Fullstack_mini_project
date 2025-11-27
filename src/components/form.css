@@ -1,0 +1,47 @@
+.form-container {
+  max-width: 450px;
+  margin: 40px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+}
+
+form input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.save-btn {
+  width: 100%;
+  padding: 12px;
+  background: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.save-btn:hover {
+  background: #27ae60;
+}
+
+.back-btn {
+  width: 100%;
+  padding: 12px;
+  background: #3498db;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.back-btn:hover {
+  background: #2980b9;
+}
